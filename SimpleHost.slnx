@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleApp1/SimpleHost.csproj" />
+  <Project Path="SimpleClient/SimpleClient.csproj" Id="5b854afc-732f-4c7c-9e46-acb82a041245" />
+</Solution>
